@@ -8,7 +8,7 @@
 ![Shell: Bash](https://img.shields.io/badge/shell-bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
-<img src="https://github.com/BHAVAN-RBN/PacketTracer-Installer-for-Arch-Linux/tree/main/packettracer-arch-installer/docs/images" alt="Workflow of packettracer_installer.sh: input, validate, dependencies, deploy, CLI launcher" width="100%">
+<img src="packettracer-arch-installer/docs/images" alt="Workflow of packettracer_installer.sh: input, validate, dependencies, deploy, CLI launcher" width="100%">
 
 </div>
 
